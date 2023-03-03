@@ -20,9 +20,6 @@ public class CombineArrays {
         for(int i=0; i<arr2.length; i++){
             res[arr1.length + i] = arr2[i];
         }
-        for(int i=0; i<arrs; i++){
-            
-        }
         return res;
     }
 }
